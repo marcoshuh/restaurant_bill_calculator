@@ -1,4 +1,5 @@
-# Restaurant-Bill-Splitter 1.0.0
+# Restaurant-Bill-Splitter
+v1.0.0
 ### Description
 Simple calculator program that computes the amount each member of a dining party is responsible for according to total bill, number of orders per member, and party size.
 <br><br>
